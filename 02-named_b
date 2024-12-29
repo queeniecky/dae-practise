@@ -1,0 +1,9 @@
+// this is comment
+/*decalare variables, then assign them some value ';' */
+
+
+let base =20
+let topping = 15
+let sum = base + topping
+console.log(sum/*() is a call function, will be shown on screen*/)
+
